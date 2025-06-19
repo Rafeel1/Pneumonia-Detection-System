@@ -1,5 +1,8 @@
 # Pneumonia Detection using Convolutional Neural Networks
 
+ **[Research Paper (PDF)](./Research%20Paper.pdf)**  
+*Note: This research paper is currently **unpublished** and provided for reference purposes only.*
+
 ## Overview:
 Pneumonia is a significant health concern globally, characterized by lung inflammation, often leading to severe respiratory distress. Timely and accurate diagnosis are essential for effective treatment and management. However, traditional diagnostic methods relying on clinical examination and radiological imaging can be time-consuming and prone to human error. To address this challenge, our project leverages deep learning techniques, specifically Convolutional Neural Networks (CNNs), to automate pneumonia detection from chest X-ray images.
 
